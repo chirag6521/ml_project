@@ -1,0 +1,47 @@
+[33mcommit 4ed63c1c0c712edd3df16a18dd769a513c9ba8af[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Chirag <wavespace6@gmail.com>
+Date:   Wed Sep 6 18:46:31 2023 +0530
+
+    changes in data
+
+[33mcommit f6433506751da00347b23977e2bddd470c7f54ab[m
+Author: Chirag <wavespace6@gmail.com>
+Date:   Wed Sep 6 18:22:36 2023 +0530
+
+    git untrack
+
+[33mcommit 22f6bdc9ceb9a8deb56fd397d577c81973869ef6[m
+Author: Chirag <wavespace6@gmail.com>
+Date:   Wed Sep 6 18:19:23 2023 +0530
+
+    dvc init
+
+[33mcommit df1947244e33ecaac015d53dde932fc7809b657d[m
+Author: Chirag <wavespace6@gmail.com>
+Date:   Wed Sep 6 17:30:00 2023 +0530
+
+    changes
+
+[33mcommit e0e2b56586731767790eb7a798182994cb42e97b[m
+Author: Chirag <wavespace6@gmail.com>
+Date:   Wed Sep 6 16:10:00 2023 +0530
+
+    Data Ingestion
+
+[33mcommit 2a98069dbd9ffec261d87a8f78ef171786474ea9[m
+Author: chirag6521 <129366494+chirag6521@users.noreply.github.com>
+Date:   Mon Sep 4 03:26:45 2023 +0530
+
+    Create .gitignore
+
+[33mcommit 9dc856e56a71932afa588e28cd6673a24fd201d3[m
+Author: chirag6521 <129366494+chirag6521@users.noreply.github.com>
+Date:   Mon Sep 4 03:23:22 2023 +0530
+
+    Update README.md
+
+[33mcommit 20a966e9f39b38a633523662bb12db82987c7121[m
+Author: Chirag <wavespace6@gmail.com>
+Date:   Mon Sep 4 03:21:19 2023 +0530
+
+    first commit
